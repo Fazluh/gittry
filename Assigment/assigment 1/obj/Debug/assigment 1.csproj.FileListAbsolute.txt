@@ -1,0 +1,7 @@
+C:\Users\fk368\source\repos\Assigment\assigment 1\bin\Debug\assigment 1.exe.config
+C:\Users\fk368\source\repos\Assigment\assigment 1\bin\Debug\assigment 1.exe
+C:\Users\fk368\source\repos\Assigment\assigment 1\bin\Debug\assigment 1.pdb
+C:\Users\fk368\source\repos\Assigment\assigment 1\obj\Debug\assigment 1.csproj.AssemblyReference.cache
+C:\Users\fk368\source\repos\Assigment\assigment 1\obj\Debug\assigment 1.csproj.CoreCompileInputs.cache
+C:\Users\fk368\source\repos\Assigment\assigment 1\obj\Debug\assigment 1.exe
+C:\Users\fk368\source\repos\Assigment\assigment 1\obj\Debug\assigment 1.pdb
